@@ -16,3 +16,5 @@ tests-mellanox
 % make install
 % oshrun -np 4 $PWD/install/bin/oshmem_test exec --task=all
 ```
+
+
